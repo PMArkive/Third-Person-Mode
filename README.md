@@ -1,2 +1,2 @@
-# Third-Person-Mod
+# Third-Person-Mode
 Counter-Strike visual mod allows players view their player models.
